@@ -1,0 +1,11 @@
+data/raw/*.csv
+data/raw/*.zip
+models/*.pkl
+models/*.h5
+models/*.pt
+__pycache__/
+*.pyc
+.env
+venv/
+.ipynb_checkpoints/
+.DS_Store
